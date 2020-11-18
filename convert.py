@@ -1,5 +1,7 @@
 # Python code to convert video to audio 
-
+# In this project i use python moviepy module
+#for install moviepy module
+#run this command:  'pip install moviepy'
 
 import moviepy.editor as mp 
 
